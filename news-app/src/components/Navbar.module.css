@@ -1,0 +1,21 @@
+.container{
+  width: 100%;
+  height: 50px;
+margin-bottom: 10px;
+
+  background-color: teal;
+  color: white;
+}
+.main {
+  width: 80%;
+margin: auto;
+padding: 10px;
+
+
+  display: flex;
+  justify-content: space-between;
+ 
+}
+.link{
+  text-decoration: none;
+}
